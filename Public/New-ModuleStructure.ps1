@@ -100,6 +100,6 @@ else {
 }
 
 #To Check the OS where POSH is running
-$IsMacOS
-$IsLinux
-$IsWindows
+#$IsMacOS
+#$IsLinux
+#$IsWindows
