@@ -1,0 +1,1 @@
+This module provide functions to create the default structure and files for PowerShell modules
